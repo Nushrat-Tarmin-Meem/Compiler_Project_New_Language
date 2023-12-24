@@ -1,0 +1,55 @@
+Successful Declaration of Variable:  roll
+Successful Declaration of Variable:  a
+Successful Declaration of Variable:  c
+Successful Declaration of Variable:  d
+Successful Declaration of Variable:  f
+
+Error!!! roll  Variable Already Exists!
+
+Value of Variable roll is:  2 
+
+Value of Variable a is:  5 
+
+Value of Variable d is:  1 
+
+Value of Variable c is:  3 
+
+Value of Variable f is:  8 
+
+Value of Exprssion is: 6 
+201 is an Odd Number 
+150 is an Even Number 
+Continuous Multiplication from 3 to 5 is:  60
+Continuous Summation from 2 to 8 is:  35
+2021 is Not a Leap Year 
+2020 is a Leap Year
+Sine of 45 Degree is :  0.707108 
+Tangent of 75 Degree is :  3.732097 
+Factorial of 4 is:  24
+4 ^ 2 :   16.000000
+97 is a Prime Number
+
+Error!!! Division by Zero!
+
+Result of Divison is:  3
+
+Screen Display:  40
+
+Screen Display Value of Expression is:  4.400000
+
+Condition Value is Zero in IF Block
+
+Value of Exprssion in ELSE Block is:  7
+
+Value in Switch-Case is: 0
+
+Value in Switch-Case is: 22
+
+IF BLOCK within Loop
+Summation Value Inside Loop is:  4
+Summation Value Inside Loop is:  7
+Summation Value Inside Loop is:  10
+Function Starts Here...
+Value in IF Block is:  3
+Function Ends Here...
+---> Execution Successfully Done <---

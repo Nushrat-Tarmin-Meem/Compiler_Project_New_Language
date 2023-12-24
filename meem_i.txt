@@ -1,0 +1,94 @@
+PROGRAM LOADING --> <--
+Begin
+
+int roll,a,c,d,f;
+float roll;
+roll=2;
+a=5;
+d=1;
+c=3;
+f=8;
+
+roll+a-c*d/2;
+
+even~odd --> 201 <--;
+even~odd --> 150 <--;
+cmultiply --> 3,5 <--;
+csum --> 2,8 <--;
+leap~year --> 2021 <-- ;
+leap~year --> 2020 <-- ;
+TRIGON --> SIN(45) <--;
+TRIGON --> TAN(75) <--;
+factorial --> 4 <--;
+power --> 4,2 <--;
+prime~no --> 97 <--;
+division --> 10,0 <--;
+division --> 10,3 <--; 
+screen(40); 
+screen(2.2 + 2.2); 
+
+fil(f>10)
+	Begin
+	f++;
+	Finish
+
+fil(f==10)
+  	Begin
+  	f++;
+  	Finish
+fill
+  	Begin
+  	f--;
+  	Finish
+
+
+switch(c) 
+	Begin
+	case 5 :
+		 screen(55);  
+	case 6 :
+		 screen(66);   
+	default :
+		 screen(00);
+	Finish
+
+switch(roll) 
+	Begin
+	case 1 :
+		 screen(11);  
+	case 2 :
+		 screen(22);  
+        case 3 :
+		 screen(33);  
+        case 8 :
+		 screen(44);   
+	default :
+		 screen(00);
+	Finish
+
+
+loop(1,5)
+	Begin
+		fil(f>10)
+		Begin
+		f++;
+		Finish
+	Finish
+loop(2,4)
+	Begin
+	d=d+c;
+	Finish
+
+function compare()
+	Begin
+	fil(roll)
+		Begin
+		roll++;
+		Finish
+	fill
+		Begin
+		roll--;
+		Finish
+	Finish
+
+Finish
